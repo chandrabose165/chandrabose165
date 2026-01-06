@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandrabose165" alt="chandrabose165" /></a> </p>
 
-- 🔭 I’m currently working on **smart quizz**
-
-- 🌱 I’m currently learning **DSA Java**
+- 🔭 **I’m currently Looking for a JOB**
 
 - 👨‍💻 All of my projects are available at [https://chandrabosevarisa.vercel.app/](https://chandrabosevarisa.vercel.app/)
 
