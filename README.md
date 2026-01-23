@@ -5,7 +5,9 @@
 
 - 🔭 **I’m currently Looking for a JOB**
 
-- 👨‍💻 All of my projects are available at [https://chandrabosevarisa.vercel.app/](https://chandrabosevarisa.vercel.app/)
+- 👨‍💻 This is My personal Website [https://chandrabosevarisa.vercel.app/](https://chandrabosevarisa.vercel.app/)
+  
+-  👨‍💻All of my projects are available at [https://github.com/chandrabose_12](https://github.com/chandrabose_12.com/)
 
 - 📫 How to reach me **varisibunny@gmail.com**
 
