@@ -8,7 +8,7 @@
   
 -  👨‍💻All of my projects are available at [https://github.com/chandrabose165](https://github.com/chandrabose165/)
   
-- 📫 How to reach me **varisibunny@gmail.com**
+- 📫 How to reach me **varisachandrabose20@gmail.com**
 
 
 
