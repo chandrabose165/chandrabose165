@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Chandrabose</h1>
 <h3 align="center">A passionate Data Science student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandrabose165" alt="chandrabose165" /></a> </p>
 
 - 🔭 **I’m currently Looking for a JOB**
 
 - 👨‍💻 This is My personal Website [https://chandrabosevarisa.vercel.app/](https://chandrabosevarisa.vercel.app/)
   
 -  👨‍💻All of my projects are available at [https://github.com/chandrabose_12](https://github.com/chandrabose_12.com/)
--  ![Uploading OrPromHighSchoolGraduationGIF.gif…]()
-![CodingGIF](https://github.com/user-attachments/assets/b250dfeb-706b-4701-8dd2-59b183545f6d)
-
-
+  
 - 📫 How to reach me **varisibunny@gmail.com**
+
+
+
+  ![CodingGIF](https://github.com/user-attachments/assets/b250dfeb-706b-4701-8dd2-59b183545f6d)
 
 
 <h3 align="left">Connect with me:</h3>
