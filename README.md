@@ -6,7 +6,7 @@
 
 - 👨‍💻 This is My personal Website [https://chandrabosevarisa.vercel.app/](https://chandrabosevarisa.vercel.app/)
   
--  👨‍💻All of my projects are available at [https://github.com/chandrabose_12](https://github.com/chandrabose_12.com/)
+-  👨‍💻All of my projects are available at [https://github.com/chandrabose_12](https://github.com/chandrabose165.com/)
   
 - 📫 How to reach me **varisibunny@gmail.com**
 
