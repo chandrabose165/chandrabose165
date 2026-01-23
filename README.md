@@ -8,6 +8,9 @@
 - 👨‍💻 This is My personal Website [https://chandrabosevarisa.vercel.app/](https://chandrabosevarisa.vercel.app/)
   
 -  👨‍💻All of my projects are available at [https://github.com/chandrabose_12](https://github.com/chandrabose_12.com/)
+-  ![Uploading OrPromHighSchoolGraduationGIF.gif…]()
+![CodingGIF](https://github.com/user-attachments/assets/b250dfeb-706b-4701-8dd2-59b183545f6d)
+
 
 - 📫 How to reach me **varisibunny@gmail.com**
 
