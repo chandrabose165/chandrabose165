@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently Looking for a **JOB FOR JAVA DEVELOPER**
 
-- 🔭 I’m currently working on **Smart Home
 
 - 💬 Ask me about **React, Full Stack, Python, SQL, Power BI,java**
 
