@@ -10,7 +10,7 @@
 - 🔭 I’m currently Looking for a **JOB FOR JAVA DEVELOPER**
 
 
-- 💬 Ask me about **React, Full Stack, Python, SQL, Power BI,java**
+- 💬 Ask me about **React, Full Stack, Python, SQL, Power BI, Java**
 
 - 📫 How to reach me **varisachandrabose20@gmail.com**
 
