@@ -14,7 +14,7 @@
 
 - 📞 contact on mobile **7893259524**
 
-- 👨‍💻 All of my projects are available at [chandrabosevarisa.vercel.app](chandrabosevarisa.vercel.app)
+- 👨‍💻 All of my projects are available at [chandrabosevarisa.vercel.app](https://chandrabosevarisa.vercel.app/)
 
 - 💬 Ask me about **JAVA,MYSQL**
 
