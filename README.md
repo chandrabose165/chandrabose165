@@ -2,23 +2,20 @@
 <h3 align="center">Student | Aspirating Java Developer | Data analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrabose165&label=Profile%20views&color=0e75b6&style=flat" alt="chandrabose165" /> </p>
-
 <img align="right" alt="coding" width="500px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-
-
-
-- 🔭 I’m currently pursuring on **Malla Reddy university**
+- 🔭 I’m currently complete my Graduation  on **Malla Reddy university**
 
 - 🌱 I’m currently learning **java**
 
 - 📞 contact on mobile **7893259524**
 
-- 👨‍💻 All of my projects are available at [chandrabosevarisa.vercel.app](https://chandrabosevarisa.vercel.app/)
+- 👨‍💻 This is one of my project are available at [chandrabosevarisa.vercel.app](https://chandrabosevarisa.vercel.app/)
 
-- 💬 Ask me about **JAVA,MYSQL**
+- 💬 Ask me about **Java, MYSQL, React.js, Springboot**
 
 - 📫 How to reach me **varisachandrabose20@gmail.com**
+  <br><br>
 
 - 📄 Know about my Resume [https://drive.google.com/file/d/1uptMtUYyf0Bm0HhQam5-ZOIWyPAfmr_B/view?usp=drive_link](https://drive.google.com/file/d/1uptMtUYyf0Bm0HhQam5-ZOIWyPAfmr_B/view?usp=drive_link)
 
@@ -33,7 +30,7 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chandrabose165&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrabose165&" alt="chandrabose165" /></p>
 </div>
 
 ###
@@ -41,9 +38,8 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandrabose165/chandrabose165/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandrabose165/chandrabose165/pacman-output/bomberman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/chandrabose165/chandrabose165/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/chandrabose165/chandrabose165/pacman-output/bomberman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chandrabose165/chandrabose165/pacman-output/bomberman-contribution-graph.svg">
 </picture>
-
 ###
