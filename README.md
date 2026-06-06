@@ -32,13 +32,3 @@
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrabose165&" alt="chandrabose165" /></p>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandrabose165/chandrabose165/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandrabose165/chandrabose165/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/chandrabose165/chandrabose165/pacman-output/bomberman-contribution-graph.svg">
-</picture>
