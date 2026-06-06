@@ -42,4 +42,3 @@
   <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/chandrabose165/chandrabose165/pacman-output/bomberman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chandrabose165/chandrabose165/pacman-output/bomberman-contribution-graph.svg">
 </picture>
-###
