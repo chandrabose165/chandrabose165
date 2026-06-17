@@ -17,7 +17,7 @@
 - 📫 How to reach me **varisachandrabose20@gmail.com**
   <br><br>
 
-- 📄 Know about my Resume [https://drive.google.com/file/d/1uptMtUYyf0Bm0HhQam5-ZOIWyPAfmr_B/view?usp=drive_link](https://drive.google.com/file/d/1uptMtUYyf0Bm0HhQam5-ZOIWyPAfmr_B/view?usp=drive_link)
+- 📄 Know about my Resume [Resume](https://drive.google.com/file/d/1uptMtUYyf0Bm0HhQam5-ZOIWyPAfmr_B/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
