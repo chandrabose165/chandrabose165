@@ -4,28 +4,31 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrabose165&label=Profile%20views&color=0e75b6&style=flat" alt="chandrabose165" /> </p>
 <img align="right" alt="coding" width="500px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-- 🔭 I’m currently complete my Graduation  on **Malla Reddy university**
+- 🔭 I’m Recently Complete my Graduation  on **Malla Reddy university**
 
 - 🌱 I’m currently learning **MERN_AI, JAVA**
 
 - 📞 contact on mobile **7893259524**
 
-- 👨‍💻 This is one of my project are available at [My_Portfolio](https://chandrabosevarisa.vercel.app/)
+- 👨‍💻 This is My portfolio to check my details in this website [My_Portfolio](https://chandrabosevarisa.vercel.app/)
 
 - 💬 Ask me about **Java, MYSQL, React.js, Springboot**
 
+## Email ID
 - 📫 How to reach me **varisachandrabose20@gmail.com**
   <br><br>
 
+## Resume
 - 📄 Know about my Resume [Resume](https://drive.google.com/file/d/1uptMtUYyf0Bm0HhQam5-ZOIWyPAfmr_B/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+
+## Connect Me
 <div align="left">
   <a href="https://www.linkedin.com/in/varisachandrabose"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" target="_blank" /></a>
   <a href="https://discord.gg/hhVyPjJC"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
 </div>
 
-<h3 align="">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 ## Github Stats  
