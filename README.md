@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm varisa chandrabose</h1>
 <p align="center">
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FD1403&center=true&vCenter=true&width=700&lines=Fresher;Java+Full+Stack+Developer;React+Developer;Java+developer;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG"/>
   </a>
-  <p align="center">
-
-</p>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrabose165&label=Profile%20views&color=0e75b6&style=flat" alt="chandrabose165" /> </p>
 <img align="right" alt="coding" width="500px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-- 🔭 I’m Recently Complete my Graduation  on **Malla Reddy university**
+- 🔭 I’m Recently Complete my Graduation  in  **Malla Reddy university**
 
 - 🌱 I’m currently learning **MERN_AI, JAVA**
 
 - 📞 contact on mobile **7893259524**
 
-- 👨‍💻 This is My portfolio to check my details in this website [My_Portfolio](https://chandrabosevarisa.vercel.app/)
+## 🌐 Portfolio
 
-- 💬 Ask me about **Java, MYSQL, React.js, Springboot**
+<a href="https://chandrabosevarisa.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 
 ## Email ID
 <a href="mailto:varisachandrabose20@gmail.com">
