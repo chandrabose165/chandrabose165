@@ -26,10 +26,6 @@
 <img  style="background-color:white" src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-## Resume
-- 📄 Know about my Resume [Resume](https://drive.google.com/file/d/1uptMtUYyf0Bm0HhQam5-ZOIWyPAfmr_B/view?usp=drive_link)
-
-
 ## Connect Me
 <div align="left">
   <a href="https://www.linkedin.com/in/varisachandrabose"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" target="_blank" /></a>
