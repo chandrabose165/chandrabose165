@@ -56,8 +56,16 @@
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,nodejs,mysql,git,github,vscode,python&perline=7"/>
 
 ## Languages Used
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrabose165&hide_border=true&layout=compact" align="center" alt="languages"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrabose165&show_icons=true&locale=en" alt="states" /></p>
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=chandrabose165&show_icons=true&theme=tokyolight&hide_border=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chandrabose165&layout=compact&theme=tokyolight&hide_border=true"
+  />
+</p>  
 
 ## Streak
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrabose165&" alt="chandrabose165" /></p>
