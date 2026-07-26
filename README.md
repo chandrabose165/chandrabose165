@@ -13,12 +13,23 @@
 - 🌱 I’m currently learning **MERN_AI, JAVA**
 
 - 📞 contact on mobile **7893259524**
-
+ 
 ## 🌐 Portfolio
-
+<p>
 <a href="https://chandrabosevarisa.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+</p>
+<p>
+<a href="https://www.linkedin.com/in/varisachandrabose/" style="margin-left:15">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+<p>
+  <a href="">
+    <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge">
+  </a>
+</p>
 
 
 ## Email ID
