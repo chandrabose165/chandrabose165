@@ -57,11 +57,11 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=chandrabose165&show_icons=true&theme=tokyolight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=chandrabose165&show_icons=true&theme=tokyolight&hide_border=false"
   />
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chandrabose165&layout=compact&theme=tokyolight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chandrabose165&layout=compact&theme=tokyolight&hide_border=false"
   />
 </p>  
 
