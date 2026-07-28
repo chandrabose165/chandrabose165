@@ -24,7 +24,7 @@
   </a>
 </p>
 <p>
-  <a href="">
+  <a href="https://drive.google.com/file/d/1ebO3MQ3RvNhY0EPrbeaY9Fl4z6hdlVZQ/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge">
   </a>
 </p>
@@ -32,7 +32,7 @@
 
 ## Email ID
 <a href="mailto:varisachandrabose20@gmail.com">
-<img  style="background-color:white" src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img  style="background-color:white" src="https://skillicons.dev/icons?i=gmail" height="45" target="_blank"/>
 </a>
 
 ## Connect Me
