@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm varisa chandrabose</h1>
 <p align="center">
   
@@ -65,3 +68,6 @@
 
 ## Streak
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrabose165&" alt="chandrabose165" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
