@@ -31,9 +31,7 @@
 
 
 ## Email ID
-<a href="mailto:varisachandrabose20@gmail.com">
-<img  style="background-color:white" src="https://skillicons.dev/icons?i=gmail" height="45" target="_blank"/>
-</a>
+<p>varisachandrabose20@gmail.com</p>
 
 ## Connect Me
 <div align="left">
