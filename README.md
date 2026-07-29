@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello&fontColor=000000&height=100&section=header" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm varisa chandrabose</h1>
+<h1 align="center">I'm CHANDRABOSE VARISA</h1>
 <p align="center">
   
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FD1403&center=true&vCenter=true&width=700&lines=Fresher;Java+Full+Stack+Developer;React+Developer;Java+developer;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG"/>
   </a>
 </p>
@@ -34,7 +34,7 @@
 
 
 ## Email ID
-<p>varisachandrabose20@gmail.com</p>
+<h3>varisachandrabose20@gmail.com</h3>
 
 ## Connect Me
 <div align="left">
@@ -67,7 +67,10 @@
 </p>  
 
 ## Streak
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrabose165&" alt="chandrabose165" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrabose165&" alt="chandrabose165" /></p>
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
