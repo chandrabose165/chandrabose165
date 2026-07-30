@@ -67,8 +67,7 @@
 </p>  
 
 ## Streak
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrabose165&" alt="chandrabose165" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrabose165&" alt="streak" /></p>
 
 
 <p align="center">
