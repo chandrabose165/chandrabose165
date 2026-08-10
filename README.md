@@ -6,8 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FD1403&center=true&vCenter=true&width=700&lines=Fresher;Java+Full+Stack+Developer;React+Developer;Java+developer;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG"/>
   </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrabose165&label=Profile%20views&color=0e75b6&style=flat" alt="chandrabose165" /> </p>
-<img align="right" alt="coding" width="500px" height="300px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrabose165&label=Profile%20views&color=0e75b6&style=flat" alt="chandrabose165" /> 
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"> </p>
 
 - 🔭 I’m Recently Complete my Graduation  in  **Malla Reddy university**
 
