@@ -53,7 +53,6 @@
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,nodejs,mysql,git,github,vscode,python&perline=7"/>
 
 ## Languages Used
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=chandrabose165&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chandrabose165&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
