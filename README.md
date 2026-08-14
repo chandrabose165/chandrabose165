@@ -25,7 +25,7 @@
   </a>
 </p>
 <p>
-  <a href="https://drive.google.com/file/d/1ebO3MQ3RvNhY0EPrbeaY9Fl4z6hdlVZQ/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1ebO3MQ3RvNhY0EPrbeaY9Fl4z6hdlVZQ/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge">
   </a>
 </p>
