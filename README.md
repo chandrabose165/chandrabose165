@@ -57,4 +57,12 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chandrabose165&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=chandrabose165&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=chandrabose165&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
